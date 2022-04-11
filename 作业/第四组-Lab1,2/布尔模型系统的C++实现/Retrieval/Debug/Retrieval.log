@@ -1,0 +1,13 @@
+﻿  Statistics.cpp
+e:\学习\信息检索\lab1,2\system\retrieval\statistics.cpp(48): warning C4018: “<”: 有符号/无符号不匹配
+e:\学习\信息检索\lab1,2\system\retrieval\statistics.cpp(107): warning C4018: “<”: 有符号/无符号不匹配
+e:\学习\信息检索\lab1,2\system\retrieval\statistics.cpp(135): warning C4018: “<”: 有符号/无符号不匹配
+e:\学习\信息检索\lab1,2\system\retrieval\statistics.cpp(171): warning C4018: “<”: 有符号/无符号不匹配
+e:\学习\信息检索\lab1,2\system\retrieval\statistics.cpp(293): warning C4018: “<”: 有符号/无符号不匹配
+e:\学习\信息检索\lab1,2\system\retrieval\statistics.cpp(315): warning C4018: “<”: 有符号/无符号不匹配
+e:\学习\信息检索\lab1,2\system\retrieval\statistics.cpp(340): warning C4018: “<”: 有符号/无符号不匹配
+e:\学习\信息检索\lab1,2\system\retrieval\statistics.cpp(348): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  main.cpp
+  Retrieval.vcxproj -> E:\学习\信息检索\lab1,2\System\Debug\Retrieval.exe
